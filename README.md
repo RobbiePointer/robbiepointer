@@ -7,8 +7,8 @@
 ### Coming Soon
 
 ## Education
-<img src=(https://apps.okstate.edu/2010_templates/images/logo.png)>
-<img src=https://brightspotcdn.byui.edu/dims4/default/3b59bf0/2147483647/strip/true/crop/560x314+22+0/resize/852x478!/format/webp/quality/90/?url=http%3A%2F%2Fbyu-idaho-brightspot.s3.amazonaws.com%2F6c%2Fa1%2Fb3306ea14ed5aef8b82a86ee39d0%2Fbyui-offical-logo-blue-01.png>
+[<img src='https://apps.okstate.edu/2010_templates/images/logo.png' alt = 'OSU' Width ='50' >]
+[<img src='https://brightspotcdn.byui.edu/dims4/default/3b59bf0/2147483647/strip/true/crop/560x314+22+0/resize/852x478!/format/webp/quality/90/?url=http%3A%2F%2Fbyu-idaho-brightspot.s3.amazonaws.com%2F6c%2Fa1%2Fb3306ea14ed5aef8b82a86ee39d0%2Fbyui-offical-logo-blue-01.png' alt = 'BYUI' Width ='50' >]
 
 
 # 📊 GitHub Stats:
